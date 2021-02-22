@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Alex's Mod Committee",
-    "currentPage": "index.html",
+    "currentPage": "Gallery.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -3385,7 +3385,7 @@
         }
       ]
     },
-    "page5.html": {
+    "Gallery.html": {
       "settings": {
         "title": "Gallery",
         "order": 2
